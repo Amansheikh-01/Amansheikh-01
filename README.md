@@ -1,92 +1,316 @@
 <div align="center">
 
-<p><code>amansheikh-01@github ~ $ ./maintainer.sh</code></p>
+<p>
+  <code>amansheikh-01@github ~ $ ./maintainer.sh</code>
+</p>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=amansheikh-01&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195875278%3Fu%3D107c19a352baebad84387a2464c7868a65e3c0ab%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/system-scan?username=amansheikh-01&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195875278%3Fu%3D107c19a352baebad84387a2464c7868a65e3c0ab%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="Aman Sheikh animated maintainer system scan" />
-</picture>
+  <img
+    src="https://www.gitskins.com/api/section/hero?username=amansheikh-01&theme=neon&style=aura"
+    width="860"
+    alt="Aman Sheikh GitHub profile"
+  />
 </p>
+
 </div>
 
-<h2>Why I build in public</h2>
+<h2>⚡ Why I build in public</h2>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Focus</h3><p><code>TypeScript</code> · <code>JavaScript</code> · <code>CSS</code></p></td>
-<td width="33%" valign="top"><h3>Proof</h3><p>12 public repositories · 11 stars</p></td>
-<td width="33%" valign="top"><h3>Contribution</h3><p>155 contributions · 90 active days</p></td>
+
+<td width="33%" valign="top">
+<h3>Focus</h3>
+
+<p>
+<code>TypeScript</code> ·
+<code>JavaScript</code> ·
+<code>React</code> ·
+<code>Java</code>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+<h3>Building</h3>
+
+<p>
+Full-stack applications<br>
+Practical software projects
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+<h3>Learning</h3>
+
+<p>
+Software Development<br>
+Open Source · AI · Systems
+</p>
+
+</td>
+
 </tr>
 </table>
 
-<p>Computer Science student exploring full-stack development and real-world software projects</p>
+<p align="center">
+  <strong>Computer Science student exploring full-stack development and real-world software projects.</strong>
+</p>
 
-<h2>Open-source toolbox</h2>
 
-<p><code>amansheikh-01@github ~ $ toolbox --list</code></p>
+<h2>🧑‍💻 About Me</h2>
+
+<p>
+I'm <strong>Aman Sheikh</strong>, a software development student interested in
+building practical applications and learning through real-world projects.
+</p>
+
+<p>
+I enjoy working across frontend and backend development, experimenting with
+new technologies, and turning ideas into working software.
+</p>
+
+<ul>
+  <li>🎓 B.Voc – Software Development</li>
+  <li>💻 Interested in Full-Stack Development</li>
+  <li>🚀 Building practical software projects</li>
+  <li>🌱 Learning modern development tools and technologies</li>
+  <li>🔧 Exploring AI, automation and open-source development</li>
+</ul>
+
+
+<h2>🛠️ Open-source toolbox</h2>
+
+<p>
+  <code>amansheikh-01@github ~ $ toolbox --list</code>
+</p>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=amansheikh-01&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195875278%3Fu%3D107c19a352baebad84387a2464c7868a65e3c0ab%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=amansheikh-01&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195875278%3Fu%3D107c19a352baebad84387a2464c7868a65e3c0ab%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="Aman Sheikh open-source technology toolbox" />
-</picture>
+  <img
+    src="https://www.gitskins.com/api/section/stack?username=amansheikh-01&theme=neon&style=aura"
+    width="860"
+    alt="Aman Sheikh technology stack"
+  />
 </p>
 
 <table width="100%">
 <tr>
-<td width="17%" align="center"><strong>TypeScript</strong><br /><sub>44%</sub></td>
-<td width="17%" align="center"><strong>JavaScript</strong><br /><sub>27%</sub></td>
-<td width="17%" align="center"><strong>CSS</strong><br /><sub>12%</sub></td>
-<td width="17%" align="center"><strong>Java</strong><br /><sub>12%</sub></td>
-<td width="17%" align="center"><strong>HTML</strong><br /><sub>2%</sub></td>
-<td width="17%" align="center"><strong>Python</strong><br /><sub>2%</sub></td>
+
+<td width="16%" align="center">
+<strong>TypeScript</strong><br>
+<sub>Frontend / Full Stack</sub>
+</td>
+
+<td width="16%" align="center">
+<strong>JavaScript</strong><br>
+<sub>Web Development</sub>
+</td>
+
+<td width="16%" align="center">
+<strong>React</strong><br>
+<sub>Frontend</sub>
+</td>
+
+<td width="16%" align="center">
+<strong>Java</strong><br>
+<sub>Backend</sub>
+</td>
+
+<td width="16%" align="center">
+<strong>Python</strong><br>
+<sub>Programming</sub>
+</td>
+
+<td width="16%" align="center">
+<strong>HTML/CSS</strong><br>
+<sub>Web</sub>
+</td>
+
 </tr>
 </table>
 
-<h2>Repositories worth exploring</h2>
+
+<h2>🚀 Repositories worth exploring</h2>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=amansheikh-01&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195875278%3Fu%3D107c19a352baebad84387a2464c7868a65e3c0ab%26v%3D4&repos=amansheikh-01%2FProfile%2Camansheikh-01%2FSnack-Management-System-project%2Camansheikh-01%2FStudent-Attendance-System-&v=oss-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=amansheikh-01&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195875278%3Fu%3D107c19a352baebad84387a2464c7868a65e3c0ab%26v%3D4&repos=amansheikh-01%2FProfile%2Camansheikh-01%2FSnack-Management-System-project%2Camansheikh-01%2FStudent-Attendance-System-&v=oss-projects-1&mode=dark" width="860" alt="Aman Sheikh maintainer repositories" />
-</picture>
+  <img
+    src="https://www.gitskins.com/api/section/projects?username=amansheikh-01&theme=neon&style=aura"
+    width="860"
+    alt="Aman Sheikh featured GitHub projects"
+  />
 </p>
+
 
 <table width="100%">
 <tr>
-<td width="25%" valign="top"><h3><a href="https://github.com/Amansheikh-01/Snack-Management-System-project">Snack-Management-System-project</a></h3><p>A full-stack Snack Management System with role-based access, employee management, daily menu handling, and QR-based snack redemption for efficient caf</p><p><sub>TypeScript · ⭐ 1</sub></p></td>
-<td width="25%" valign="top"><h3><a href="https://github.com/Amansheikh-01/Student-Attendance-System-">Student-Attendance-System-</a></h3><p>A full-stack Student Attendance System designed for managing student records, attendance monitoring, and streamlined academic administration with a mo</p><p><sub>JavaScript · ⭐ 1</sub></p></td>
+
+<td width="50%" valign="top">
+
+<h3>
+<a href="https://github.com/amansheikh-01/Snack-Management-System-project">
+🍱 Snack Management System
+</a>
+</h3>
+
+<p>
+A full-stack snack management application designed to simplify
+employee snack distribution and redemption.
+</p>
+
+<p>
+<strong>Tech:</strong><br>
+<code>React</code>
+<code>TypeScript</code>
+<code>Spring Boot</code>
+<code>Java</code>
+<code>QR</code>
+</p>
+
+<p>
+<a href="https://github.com/amansheikh-01/Snack-Management-System-project">
+View Repository →
+</a>
+</p>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h3>
+<a href="https://github.com/amansheikh-01/Student-Attendance-System-">
+🎓 Student Attendance System
+</a>
+</h3>
+
+<p>
+A full-stack student management platform for attendance,
+student records and academic administration.
+</p>
+
+<p>
+<strong>Tech:</strong><br>
+<code>React</code>
+<code>JavaScript</code>
+<code>MongoDB</code>
+</p>
+
+<p>
+<a href="https://github.com/amansheikh-01/Student-Attendance-System-">
+View Repository →
+</a>
+</p>
+
+</td>
+
 </tr>
 </table>
 
-<h2>Contribution activity</h2>
+
+<h2>📊 GitHub Activity</h2>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=amansheikh-01&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195875278%3Fu%3D107c19a352baebad84387a2464c7868a65e3c0ab%26v%3D4&style=terminal&v=oss-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=amansheikh-01&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195875278%3Fu%3D107c19a352baebad84387a2464c7868a65e3c0ab%26v%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="Aman Sheikh open-source signal" />
-</picture>
+  <img
+    src="https://www.gitskins.com/api/section/stats?username=amansheikh-01&theme=neon&style=aura"
+    width="860"
+    alt="Aman Sheikh GitHub statistics"
+  />
 </p>
 
-<h2>Contribution trail</h2>
+
+<h2>🔥 Contribution Trail</h2>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=amansheikh-01&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195875278%3Fu%3D107c19a352baebad84387a2464c7868a65e3c0ab%26v%3D4&v=oss-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=amansheikh-01&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195875278%3Fu%3D107c19a352baebad84387a2464c7868a65e3c0ab%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="Aman Sheikh contribution trail" />
-</picture>
+  <img
+    src="https://www.gitskins.com/api/section/heatmap?username=amansheikh-01&theme=neon&style=aura"
+    width="860"
+    alt="Aman Sheikh GitHub contribution activity"
+  />
 </p>
+
+
+<h2>🎯 Current Focus</h2>
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>💻 Software Development</h3>
+
+<ul>
+<li>Full-stack web applications</li>
+<li>React-based interfaces</li>
+<li>Backend development</li>
+<li>Database-driven applications</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🚀 Future Exploration</h3>
+
+<ul>
+<li>Artificial Intelligence</li>
+<li>Automation</li>
+<li>Open-source projects</li>
+<li>Advanced software systems</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
+
+
+<h2>📌 What I'm Working Towards</h2>
+
+<p align="center">
+
+<code>Learn → Build → Test → Improve → Ship</code>
+
+</p>
+
+<p align="center">
+I'm focused on turning what I learn into real projects and continuously improving
+my development skills.
+</p>
+
 
 <hr />
 
-<h2>Contribute together</h2>
 
-<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
+<h2>🤝 Let's Connect</h2>
 
-<p align="center"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=amansheikh-01&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195875278%3Fu%3D107c19a352baebad84387a2464c7868a65e3c0ab%26v%3D4&v=oss-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=amansheikh-01&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195875278%3Fu%3D107c19a352baebad84387a2464c7868a65e3c0ab%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="Aman Sheikh community links" />
-</picture></p>
-<p align="center"><a href="https://github.com/amansheikh-01">GitHub</a> &nbsp;·&nbsp; <a href="https://inspiring-bubblegum-80594d.netlify.app/">Website</a></p>
-<p align="center"><sub>Aman Sheikh · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center">
+
+<a href="https://github.com/amansheikh-01">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://inspiring-bubblegum-80594d.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Website-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+<strong>Open to learning, collaboration and interesting software projects.</strong>
+</p>
+
+
+<hr />
+
+<p align="center">
+
+<code>amansheikh-01@github ~ $ echo "Keep building."</code>
+
+</p>
+
+<p align="center">
+<sub>
+Aman Sheikh · Software Development Student · Building in public
+</sub>
+</p>
